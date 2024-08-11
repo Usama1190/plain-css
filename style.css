@@ -30,3 +30,27 @@ framework.
 .extra-small-text {
     font-size: 12px;
 }
+
+
+/* 
+Advantages
+1. No more sili names for css classes and ids
+2. Minimum lines of code in css file becsuse your are not writing 
+custom css.
+
+3. We can mixed multiple utility classes to create custom components.
+4. We can make the website responsive and we will discuss the responsive 
+issues later
+
+5. We can apply style exactly where we want to instead of everywhere. 
+Because plain css is global in nature so if we make changes in the file 
+property is changed and all html files link too it. 
+
+But with tailwindcss we can use utility classes and make local changes that
+will apply only where we want 
+
+Next Utilities
+
+tailwind uses pre-defined opiniated and single purpose utility first classes
+for styling html elements. According to your requirement.
+*/
