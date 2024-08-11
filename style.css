@@ -1,0 +1,32 @@
+/* Basic CSS */
+
+
+p, h1 {
+    /* background-color: blue; */
+    font-size: 16px;
+}
+
+
+/* 
+
+Tailwind ko use karke hum buhat hi easily and quikly style apply kar 
+sakhte hein.
+
+Tailwind is a utility first css framework. 
+
+Tailwind is hihgly cutomizesable and we also discuss that is a low level 
+framework.
+
+ */
+
+.small-text {
+    font-size: 18px;
+}
+
+.large-text {
+    font-size: 24px;
+}
+
+.extra-small-text {
+    font-size: 12px;
+}
