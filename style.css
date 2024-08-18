@@ -1,10 +1,10 @@
 /* Basic CSS */
 
 
-p, h1 {
+/* p, h1 { */
     /* background-color: blue; */
-    font-size: 16px;
-}
+    /* font-size: 16px; */
+/* } */
 
 
 /* 
@@ -19,7 +19,7 @@ framework.
 
  */
 
-.small-text {
+/* .small-text {
     font-size: 18px;
 }
 
@@ -29,7 +29,7 @@ framework.
 
 .extra-small-text {
     font-size: 12px;
-}
+} */
 
 
 /* 
@@ -54,3 +54,29 @@ Next Utilities
 tailwind uses pre-defined opiniated and single purpose utility first classes
 for styling html elements. According to your requirement.
 */
+
+
+
+
+
+
+
+/* car */
+
+.car-body {
+    background-color: blue;
+    height: 100px;
+    width: 200px;
+}
+
+.car-wheel {
+    background-color: black;
+    height: 50px;
+    width: 50px;
+}
+
+.car-headlight {
+    background-color: yellow;
+    height: 20px;
+    width: 20px;
+}
